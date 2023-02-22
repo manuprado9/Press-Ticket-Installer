@@ -24,6 +24,18 @@ Después de descargarlo y hacerlo ejecutable, debe ir al directorio del instalad
 ```bash
 cd ./Press-Ticket-Installer
 ```
+Antes de Empezar a instalar si quiere pude crear un archivo config y ponga las claves que usted quiera. De no hacerlo se generaran aleatoriamente las claves guardandose en este archivo.
+
+```bash
+sudo nano config
+```
+**Pegue este texto y agregue sus claves**
+
+deploy_password=
+mysql_root_password=
+db_pass=
+
+Ejecute el instalador.
 
 ```bash
 sudo ./Press-Ticket
