@@ -19,7 +19,7 @@ sudo chmod +x ./Press-Ticket-Installer/Press-Ticket
 
 ### Uso
 
-Después de descargarlo y hacerlo ejecutable, debe ir al directorio del instalador y **ejecutar el script** en con **SUDO**:
+Después de descargarlo y hacerlo ejecutable, debe ir al directorio del instalador y **ejecutar el script** con **SUDO**:
 
 ```bash
 cd ./Press-Ticket-Installer
