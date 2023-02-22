@@ -30,11 +30,11 @@ Antes de Empezar a instalar si quiere pude crear un archivo config y ponga las c
 sudo nano config
 ```
 **Pegue este texto y agregue sus claves**
-
+```bash
 deploy_password=
 mysql_root_password=
 db_pass=
-
+```
 Ejecute el instalador.
 
 ```bash
