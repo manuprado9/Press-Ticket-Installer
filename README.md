@@ -38,7 +38,7 @@ db_pass=
 Ejecute el instalador.
 
 ```bash
-sudo ./Press-Ticket
+sudo ./pressticket
 ```
 
 * Usuario: 
