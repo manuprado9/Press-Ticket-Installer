@@ -1,5 +1,5 @@
-# Press-Ticket-Installer
-Instalador de Press-Ticket en Modo Localhost sin SSL
+# Instalador de Press-Ticket en Modo Localhost sin SSL
+
 ### Descarga y Instalar
 
 En primer lugar, debe descargarlo:
