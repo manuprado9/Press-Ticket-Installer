@@ -14,7 +14,7 @@ git clone https://github.com/manuprado9/Press-Ticket-Installer.git
 Ahora, todo lo que tienes que hacer es hacerlo ejecutable:
 
 ```bash
-sudo chmod +x ./Press-Ticket-Installer/Press-Ticket
+sudo chmod +x ./Press-Ticket-Installer/pressticket
 ```
 
 ### Uso
